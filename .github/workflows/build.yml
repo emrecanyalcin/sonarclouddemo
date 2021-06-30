@@ -6,6 +6,10 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
+sonarclouddemo/.github/workflows/
+in
+master
+
   build:
     name: Build
     runs-on: ubuntu-latest
